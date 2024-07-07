@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Yesfer!](assets/header.gif)](https://github.com/yesferfuetes)
+[![Hello World, I'm Yesfer!](header.gif)](https://github.com/yesferfuetes)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/yesfer-fuentes) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yesfer.bany@gmail.com?subject=Hello%20Yesfer,%20From%20Github)
@@ -15,12 +15,12 @@
 
 ## 💡 A Quote:
 
-"Se el Senior que quisiste ser cuando eras Junio".
+"Sé el Senior que quisiste ser cuando eras Junior".
 
 
 ## 💻 My Tech Stack:
 
-[![Nest.js, Node.js, JavaScript, TypeScript, AWS](https://skillicons.dev/icons?i=nestjs,nodejs,js,ts,aws)](https://skillicons.dev)
+[![Nest.js, Node.js, JavaScript, TypeScript, Jest, PostGres, AWS](https://skillicons.dev/icons?i=nestjs,nodejs,js,ts,jest,postgres,aws)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
