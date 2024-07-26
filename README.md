@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working at [MULTI](https://www.linkedin.com/company/multigrouplideracero/mycompany/).
 - 🚀 Banckend Developer.
-- 🌱 I am passionate about software architecture.
+- 🌱 I am passionate about software design and architecture.
 
 <div align="center">
 
 ## 💡 A Quote:
 
-"Sé el Senior que quisiste ser cuando eras Junior".
+Sé el "senior" que necesitabas cuando eras "junior".
 
 
 ## 💻 My Tech Stack:
